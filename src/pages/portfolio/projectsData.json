@@ -1,0 +1,42 @@
+[
+  {
+    "title": "HOSPITAL MANAGEMENT SYSTEM",
+    "image": "./projectImages/hospital.png",
+    "description": "I was responsible for making backend for the website,model,view,controller(MVC).",
+    "technologies": "MVC | javascript | Bootstrap",
+    "github": "https://github.com/attainu/backend-project-kartikey-pathak-au46",
+    "deployed": "https://hospital-management-app-043j.onrender.com/",
+    "bgcolor": "#f37737",
+    "id": "1"
+  },
+  {
+    "title": "Sneaker Store",
+    "image": "./projectImages/sneakerstore.png",
+    "technologies": "MERN Stack",
+    "description": " An E-commerce store for sneakers lovers.",
+    "github": "https://github.com/attainu/capstone-project-kartikey-pathak-au46",
+    "deployed": "https://sneaker-store.onrender.com/",
+    "bgcolor": "#29cbe0",
+    "id": "2"
+  },
+  {
+    "title": "Blog Site",
+    "image": "./projectImages/blog.png",
+    "technologies": "JS | Node | REACT | EXPRESS | MONGODB",
+    "description": "A blog site where users can post there blogs and showcase there thoughts to the world",
+    "github": "https://github.com/kartikey-pathak-au46/MERN-BLOG-APP_BACKEND",
+    "deployed": "https://mern-blog-site-pvt0.onrender.com",
+    "bgcolor": "#6c4bf4",
+    "id": "3"
+  },
+  {
+    "title": "CHAT APP",
+    "image": "./projectImages/Chatapp.PNG",
+    "technologies": "JS | MERN | SOCKET IO ",
+    "description": "A chat app on the fundamentals of MERN and SOCKET IO.user can chat with each other.",
+    "github": "https://github.com/kartikey-pathak-au46/chat-app-mern-api",
+    "deployed": "https://chat-app-mern-a2zo.onrender.com",
+    "bgcolor": "#f85781",
+    "id": "4"
+  }
+]
